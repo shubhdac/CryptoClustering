@@ -1,1 +1,2 @@
 # CryptoClustering
+This module applies the K-means clustering algorithm and principal component analysis (PCA) to classify cryptocurrencies based on their price fluctuations over various timeframes. The timeframes analyzed include 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year. The goal is to identify patterns and group cryptocurrencies with similar price behavior, providing insights into market dynamics and trends.
